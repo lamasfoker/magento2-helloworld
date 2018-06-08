@@ -1,5 +1,5 @@
 {
-  "name":"wapone/module-helloworld",
+  "name":"lamasfoker/module-helloworld",
   "description": "Hello World for Magento 2",
   "type":"magento2-module",
   "version": "1.0.0",
